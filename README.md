@@ -18,6 +18,7 @@ A través de este análisis se busca identificar patrones, tendencias y comparac
 ---
 
 # Archivos del proyecto
+
 ### AluraStoreLatam.ipynb: Notebook principal con el análisis y visualización de datos.
 
 # Carpeta base_de_datos/: Contiene los archivos CSV con los datos de cada tienda.
@@ -30,13 +31,7 @@ tienda_3.csv
 
 tienda_4.csv
 
-# Visualizaciones generadas
-### Aquí puedes incluir capturas de gráficas de matplotlib que estás generando. Por ejemplo:
+# Imagenes del proyecto
 
-Comparación de ingresos por tienda
-
-Categorías más vendidas
-
-Tendencias de venta por mes
 
 
