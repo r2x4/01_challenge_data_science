@@ -10,7 +10,7 @@
 Este proyecto se desarrolla como parte del programa de formación Beca ONE Education de Oracle con Alura LATAM.
 Consiste en el análisis de ventas de una tienda ficticia llamada Alura Store LATAM, utilizando archivos CSV proporcionados para cada sucursal (tienda_1 a tienda_4).
 
-El procesamiento y análisis de datos se realiza en Google Colab utilizando librerías como pandas y matplotlib para visualizar información relevante sobre las ventas.
+El procesamiento y análisis de datos se realiza en Google Colab utilizando librerías como matplotlib para visualizar información relevante sobre las ventas.
 A través de este análisis se busca identificar patrones, tendencias y comparaciones entre tiendas, categorías de productos y desempeño general.
 
 </div>
