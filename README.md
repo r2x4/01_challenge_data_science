@@ -32,8 +32,11 @@ tienda_3.csv
 tienda_4.csv
 
 # Imagenes del proyecto
+# Facuracion de las Tiendas
 ![image](https://github.com/user-attachments/assets/58f61c35-5a04-4e29-8edb-a50f0a47c2d6)
+
 ![image](https://github.com/user-attachments/assets/3ba4c958-0108-418b-818e-a2c0513e3f56)
+# Categorias de Ventas
 ![image](https://github.com/user-attachments/assets/511b7fc3-f7bf-4848-be55-b81143d197e5)
 ![image](https://github.com/user-attachments/assets/175396e8-ec36-443c-915f-163c7b747506)
 ![image](https://github.com/user-attachments/assets/780da801-68c9-4a5b-b3f0-5dd39898c04c)
