@@ -1,7 +1,8 @@
 # Análisis de Ventas - Challenge Data Science
 ## Proyecto: Alura Store LATAM
-### Lenguaje Tratamiento de Datos: Python (Google Colab)
-### Visualización de Datos: Matplotlib
+### Lenguaje Tratamiento de Datos: Python 
+### IDE de uso: (Google Colab)
+### Visualización de Datos: Biblioteca Matplotlib
 ### Fuente de Datos: Archivos CSV
 
 ---
