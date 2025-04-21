@@ -87,7 +87,7 @@ El dueño considera cerrar una tienda.
 - Mejora la percepción del cliente: envío gratis es una estrategia comercial efectiva.
 
 ### Plan de mejora para atención y servicio
-- Diagnóstico de los puntos de fricción en la experiencia del cliente.
+- Diagnóstico de los puntos donde la experiencia del cliente es mas baja.
 - Capacitación del personal, mejoras en logística o en la plataforma digital.
 
 ### Optimización logística
