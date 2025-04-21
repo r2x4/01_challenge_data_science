@@ -44,6 +44,63 @@ tienda_4.csv
 # Productos mas y menos Vendidos
 ![image](https://github.com/user-attachments/assets/780da801-68c9-4a5b-b3f0-5dd39898c04c)
 ![image](https://github.com/user-attachments/assets/c5198b8c-4b69-46cc-9921-3f08919a9882)
+# Promedio de costo envio por tiendas
+![image](https://github.com/user-attachments/assets/d59689c6-39f0-4d7c-91d9-be526b1019d1)
+
+
+# Análisis General para la Toma de Decisión Empresarial
+
+## Situación
+El dueño considera cerrar una tienda.
+
+## Propuesta
+**No cerrar ninguna tienda.** En lugar de ello, implementar estrategias de marketing y mejora del servicio.
+
+## Evaluación Global
+
+### Ventas consistentes
+- Todas las tiendas tienen un volumen de ventas muy similar (Tienda 1 a 3 con 2,359 ventas y Tienda 4 con 2,358).
+- No hay una tienda significativamente rezagada en términos de ventas que justifique el cierre inmediato.
+
+### Diferencias en ingresos totales
+- Las diferencias de ingresos entre tiendas están más asociadas a los precios promedio y el costo de envío, no al volumen de ventas.
+- Tienda 4, aunque es la más baja en ingresos netos, mantiene niveles operativos estables y un costo de envío competitivo.
+
+### Satisfacción del cliente como indicador de riesgo
+- Las tiendas con menor calificación de satisfacción (Tienda 4 y 1) deberían ser foco de acciones correctivas, no de cierre.
+- Tienda 4, a pesar de tener la menor calificación (3.996), aún se encuentra dentro de una categoría aceptable ("Bueno").
+
+## ¿Por qué no cerrar una tienda?
+- Todas las tiendas están vendiendo bien, no hay ninguna con bajo volumen de ventas que lo justifique.
+- Cerrar una tienda podría afectar negativamente la participación de mercado, la percepción de marca o generar fuga de clientes.
+- Se perdería el esfuerzo invertido en operaciones, posicionamiento y adquisición de clientes.
+
+## Estrategias Recomendadas
+
+### Campañas de marketing específicas
+- Dirigidas a las tiendas con menor satisfacción (Tienda 1 y 4).
+- Incentivos promocionales, encuestas de retroalimentación y mejora de experiencia.
+
+### Incluir el costo de envío en el precio del producto
+- El costo de envío afecta la utilidad neta y se comporta como un pasivo oculto.
+- Incluirlo en el precio evita fluctuaciones y permite tener márgenes más claros y previsibles.
+- Mejora la percepción del cliente: envío gratis es una estrategia comercial efectiva.
+
+### Plan de mejora para atención y servicio
+- Diagnóstico de los puntos de fricción en la experiencia del cliente.
+- Capacitación del personal, mejoras en logística o en la plataforma digital.
+
+### Optimización logística
+- Analizar rutas y proveedores de envío para reducir aún más el costo (especialmente en Tienda 1).
+
+## Conclusión
+Desde el análisis de datos, **no se recomienda el cierre de ninguna tienda**. La empresa tiene una red equilibrada con ventas estables. La clave está en:
+- Mejorar la atención al cliente  
+- Aplicar estrategias de marketing  
+- Revisar la política de envío  
+
+**Tomar decisiones basadas en datos y no solo en ingresos netos.**
+
 
 
 
